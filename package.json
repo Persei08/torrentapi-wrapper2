@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "got": "10.x.x"
+    "got": "11.x.x"
   },
   "keywords": [
     "torrentapi",
